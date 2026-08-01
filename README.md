@@ -144,10 +144,8 @@ Actively seeking AI/ML Engineer, Data Scientist, and Machine Learning graduate o
 
 ## Contact
 
-
-LinkedIn: https://www.linkedin.com/in/madhurima-mani-503512366/
-Email: madhurimauppathil@gmail.com
----
+- LinkedIn: https://www.linkedin.com/in/madhurima-mani-503512366/
+- Email: madhurimauppathil@gmail.com
 
 *Open to graduate roles, research collaborations, and internship opportunities.*
 
@@ -156,9 +154,22 @@ Email: madhurimauppathil@gmail.com
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
