@@ -134,7 +134,6 @@ Rak Branch Campus
 
 ---
 
-## Current Work
 
 ## Current Work
 
